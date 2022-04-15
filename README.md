@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JetContrail
-- 👀 I’m interested in CPU archtecture.
+- 👀 I’m interested in CPU architecture.
 - 🌱 I’m currently learning RISC-V CPU.
 - 💞️ I’m looking to collaborate on RISC-V CPU.
 - 📫 How to reach me. Please send mail masaya.kikuchi@gmail.com
